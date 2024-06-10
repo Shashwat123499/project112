@@ -1,0 +1,26 @@
+.heading {
+    letter-spacing: 10px;
+}
+
+#h1_tags {
+    background-color: skyblue;
+    width:fit-content;
+    height: fit-content;
+    border-radius: 15px;
+}
+
+body {
+    background-color: purple;
+    color: white;
+}
+
+p {
+    background-color: white;
+    color: green;
+    width: 100px;
+    border-radius: 4px;
+}
+
+#prediction {
+    font-size: 30px;
+}
